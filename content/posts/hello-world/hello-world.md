@@ -17,7 +17,7 @@ images: []
 weight: 1
 ---
 
-![Coconut-Aero](content/posts/hello-world/hello-world.md)
+![Coconut-Aero](images/hello-world/CoconutAero.png)
 
 ## 我是谁
 
