@@ -1,7 +1,7 @@
 ---
 # type: docs 
 title: Hello World
-date: 2024-12-07T16:09:15+08:00
+date: 2024-12-07 16:09:15+08:00
 description: 这是我的第一个帖子
 featured: false
 draft: true

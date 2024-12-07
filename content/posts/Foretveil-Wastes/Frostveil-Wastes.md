@@ -1,7 +1,7 @@
 ---
 # type: docs 
 title: Frostveil Wastes
-date: 2024-12-07T16:47:15+08:00
+date: 2024-12-07 16:47:15+08:00
 featured: false
 description: 关于霜幕废土
 draft: true

@@ -1,7 +1,7 @@
 ---
 # type: docs 
 title: GitHub 笑传之 Pull Request
-date: 2024-12-07T17:39:09+08:00
+date: 2024-12-07 17:39:09+08:00
 featured: false
 draft: true
 comment: true
