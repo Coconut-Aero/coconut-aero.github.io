@@ -1,7 +1,7 @@
 baseURL: https://hbs-skeleton.netlify.app/
 title: Hugo Bootstrap Skeleton
-copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
-defaultContentLanguage: en
+copyright: 'Copyright © 2016-{year} Coconut-Aero. All Rights Reserved.'
+defaultContentLanguage: zh-hans
 # hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true
 # disableLanguages:
@@ -14,6 +14,8 @@ pagination:
 enableRobotsTXT: true
 enableEmoji: true
 pygmentsUseClasses: true
+
+ignoreLogs: ["warning-goldmark-raw-html"]
 
 blackfriday:
   hrefTargetBlank: true
