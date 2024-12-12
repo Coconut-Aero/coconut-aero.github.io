@@ -1,4 +1,4 @@
-module github.com/razonyang/hugo-theme-bootstrap-skeleton
+module github.com/Coconut-Aero/coconut-aero.github.io
 
 go 1.18
 

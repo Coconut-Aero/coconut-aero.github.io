@@ -4,7 +4,6 @@ title: Hello World
 date: 2024-12-07 16:09:15+08:00
 description: 这是我的第一个帖子
 featured: false
-draft: true
 comment: true
 toc: true
 reward: true
