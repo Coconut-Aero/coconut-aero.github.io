@@ -10,7 +10,7 @@ reward: true
 pinned: false
 carousel: false
 series:
-categories: []
+categories: [AI内容]
 tags: []
 images: []
 ---

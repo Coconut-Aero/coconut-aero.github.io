@@ -172,7 +172,7 @@ creativeCommons:
 
 # See https://giscus.app
 giscus:
-  repo: "razonyang/hugo-theme-bootstrap-skeleton" # required.
+  repo: "Coconut-Aero/coconut-aero.github.io" # required.
   repoId: "R_kgDOHJi95g" # required.
   category: "General" # required.
   categoryId: "DIC_kwDOHJi95s4CTy6q" # required.
@@ -250,7 +250,7 @@ contact:
     # siteKey: ""
 
 repo:
-  url: https://github.com/razonyang/hugo-theme-bootstrap-skeleton
+  url: https://github.com/Coconut-Aero/coconut-aero.github.io
   branch: main
   # subPath: exampleSite
   # dateFormat: 02/01/2006, 15:04:05 PM
