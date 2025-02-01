@@ -4,7 +4,6 @@ title: 斯大林-赫鲁晓夫排序
 date: 2025-01-30T20:32:21+08:00
 featured: false
 description: 斯大林-赫鲁晓夫排序（Stalin-Khrushchev Sort）——肃清与平反的排序艺术
-draft: false
 comment: true
 toc: true
 reward: true
