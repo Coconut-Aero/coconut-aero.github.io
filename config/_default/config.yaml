@@ -1,6 +1,6 @@
 baseURL: https://coconut-aero.github.io/
 title: Coconut-Aero's Blog
-copyright: 'Copyright © 2016-{year} Coconut-Aero. All Rights Reserved. 萌ICP备20250702号'
+copyright: 'Copyright © 2016-{year} Coconut-Aero. All Rights Reserved.'
 defaultContentLanguage: zh-hans
 # hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true
