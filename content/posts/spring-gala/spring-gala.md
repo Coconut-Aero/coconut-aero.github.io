@@ -10,7 +10,7 @@ reward: true
 pinned: false
 carousel: false
 series:
-categories: [闲聊]
+categories: [Small Talk]
 tags: []
 images: []
 ---

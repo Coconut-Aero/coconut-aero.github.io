@@ -12,7 +12,7 @@ carousel: false
 series:
 categories: [top]
 tags: []
-images: []
+images: [images/hello-world/CoconutAero.png]
 weight: 1
 ---
 

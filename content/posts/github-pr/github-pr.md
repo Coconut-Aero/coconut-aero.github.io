@@ -10,7 +10,7 @@ pinned: false
 carousel: false
 description: 关于linux仓库被推送带有windows.h的后门那些事
 series:
-categories: [闲聊]
+categories: [Small Talk]
 tags: []
 images: []
 ---
