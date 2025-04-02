@@ -16,8 +16,6 @@ images: [images/hello-world/CoconutAero.png]
 weight: 1
 ---
 
-![Coconut-Aero](images/hello-world/CoconutAero.png)
-
 ## 我是谁
 
 我大概也不知道。
