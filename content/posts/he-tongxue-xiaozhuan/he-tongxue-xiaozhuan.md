@@ -33,6 +33,4 @@ tags: [Small Talk, Tech]
 
 想起最近在做的 [CN_Mental_Checklist 项目](https://coconut-aero.github.io/cn-mental-checklist/) ，自己做这个一方面是练习和学习vite，另一方面也是出于对身边许多精神受创的朋友的担忧，并不是为了所谓的打赏、点赞、投币等等。所以，它是开源的，它是免费的，它也是毫无保留的，它没有也不需要任何的打赏功能。这是我作为一个可怜的鼠鼠能给社会带来的温暖吧。
 
-<p align="center">
-  <img src="https://coconut-aero.github.io/images/he-tongxue-xiaozhuan/cn-mental-checklist.png" alt="CN_Mental_Checklist">
-</p>
+![CN_Mental_Checklist](images/he-tongxue-xiaozhuan/cn-mental-checklist.png)
