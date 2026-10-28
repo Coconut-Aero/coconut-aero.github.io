@@ -310,7 +310,7 @@ author:
   name: Coconut-Aero
   avatar: images/avatar.jpeg # Avatar image. Default to "images/profile.webp".
   bio: 'Leap. Forward. To the Future.'
-  company: CHU # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
+  company: QUT # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
   location: Frostveil Wastes # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
   # about: https://razonyang.com # The external about page. The internal about page will be used if not set.
   params: {
